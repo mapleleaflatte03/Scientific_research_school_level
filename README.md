@@ -1,10 +1,17 @@
+<div align="center">
+
+<img src="assets/vlu_logo.webp" alt="Van Lang University" width="400"/>
+
 # 🏥 Deep Learning Ensemble for Chest X-ray Classification
+
 ## VLU School-Level Research Project | Van Lang University
 
 [![Research](https://img.shields.io/badge/Research-Medical%20AI-blue)]()
 [![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange)]()
 [![Models](https://img.shields.io/badge/Models-5%20Architectures-green)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Chest%20X--Ray-lightblue)]()
+
+</div>
 
 ---
 
